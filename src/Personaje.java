@@ -1,3 +1,6 @@
+import java.lang.reflect.Array;
+import java.util.ArrayList;
+
 public class Personaje {
 
     //ATRIBUTOS
@@ -7,9 +10,15 @@ public class Personaje {
     private int fuerza;
     private int velocidad;
     private int defensa;
+    private String[] inventario = new String[4];
 
 
-
+    /*Lady Bugs poderes:
+        -Ataque plano
+        -Ataque con yoyo
+        - Transformación den Dragon Bug
+        - Uso de amuleto
+    */
 
     //CONSTRUCTORES
 
@@ -19,6 +28,7 @@ public class Personaje {
         this.fuerza = 10;
         this.velocidad = 15;
         this.defensa = 10;
+        this.inventario = new String[] {"Ataque plano", "Ataque con yoyo", "Transformación de Dragon Bug", "Uso de amuleto"};
 
     }
 
