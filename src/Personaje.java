@@ -12,14 +12,6 @@ public class Personaje {
     private int defensa;
     private String[] inventario = new String[4];
 
-
-    /*Lady Bugs poderes:
-        -Ataque plano
-        -Ataque con yoyo
-        - Transformación den Dragon Bug
-        - Uso de amuleto
-    */
-
     //CONSTRUCTORES
 
     public Personaje() {
@@ -33,7 +25,7 @@ public class Personaje {
     }
 
     public Personaje (String nombre, int vida, int fuerza, int velocidad, int defensa) {
-        this.nombre = "Lady Bug";
+        this.nombre = nombre;
         this.vida = vida;
         this.fuerza = fuerza;
         this.velocidad = velocidad;
@@ -41,8 +33,6 @@ public class Personaje {
         this.inventario = new String[] {"Ataque plano", "Ataque con yoyo", "Transformación de Dragon Bug", "Uso de amuleto"};
 
     }
-
-
 
     //GETERS
 
