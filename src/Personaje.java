@@ -38,6 +38,7 @@ public class Personaje {
         this.fuerza = fuerza;
         this.velocidad = velocidad;
         this.defensa = defensa;
+        this.inventario = new String[] {"Ataque plano", "Ataque con yoyo", "Transformación de Dragon Bug", "Uso de amuleto"};
 
     }
 
