@@ -74,6 +74,7 @@ Soy el rey del mundo -> Titanic.
 Mi tesoro -> LOTR.
 Un gran poder conlleva una gran responsabilidad -> Spiderman.
 Hasta el infinito y más allá -> Toy Story.
+"Nombre villano" despega de nuevoooo... -> Team Rocket de Pokemon.
 
 
 
@@ -82,5 +83,41 @@ Patio del colegio:
 Aunque es un día de primavera tranquilo, en el que se puede disfrutar de una pequeña brisa mientras que el sol nos calienta el cuerpo, y se puede escuchar el sonido del resto de compañeros realizando diferentes tareas de ocio, hay algo en el ambiente que a “Nombre Personaje Elegido” no le terminaba de cuadrar.
 De repente, se escucha un gran estruendo y el murmullo de una multitud hacinada. Entre todo el barullo de personas que se había montado se podía apreciar una figura diferente…. Traje negro, pero rizado, un móvil entre las manos….¡¡¡Es lady WI-FI!!!!
 Sin pensárselo dos veces, “Nombre de Personaje Elegido” salió corriendo a un sitio seguro  para llevar a cabo su transformación. Tras un mero instante y con un salto digno de admiración se presentó delante de la malvada Lady WI-FI.
--	PERSONAJE: 
+-	PERSONAJE: "¡¡Ya veo que estas haciendo de las tuyas, es hora de pararte los pies!!"
+- Lady WI-FI: "Lo intentarás..."
+
+Tras un duro enfrentamiento, "Nombre del Personaje" se alza con la victoria.
+- Akuma: Madre mia "Nombre de personaje" no se por que siempre te pasan estas cosas a ti...
+- Personaje: Mi madre dice que la vida es como una caja de bombones, nunca sabes lo que te va a tocar.
+Ambos sueltan una carcajada y vuelven a esconderse para quitarse el traje.
+
+
+
+
+Plaza del Museo Louvre:
+Mientras "Nombre de personaje" se tomaba un refresco con uno de sus compañeros cuando de repente ese sol deslumbrante es cambiado por oscuridad y una niebla que apenas les deja ver, nuestro/a protagonista mira hacia uno de los tejado se da cuenta que hay una figura a la cual no logra distinguir, esta extraña figura pega un salto
+y en un abrir y cerrar de ojos se planta en el suelo. ¡¡Es Clima Tempestuoso!!
+ambos amigos salen corriendo, "Nombre del personaje" se va hacia los baños de ola cafetería, sin embargo su compañero no tuvo la misma suerte y se ve arrastrado por un fuerte vendaval, finalmente nuestro héroe/heroína es capaz de agarrarla por el brazo y ponerla a salvo.
+- Personaje: ¡¡Corre sal de aquí ahora mismo!!
+- Amigo: ¡¡No se hable más!! y.... que la fuerza te acompañe....
+
+- Clima Tempestuoso: vaya vaya vaya, volvemos a encontrarnos...
+- Personaje: ¡Si, pero será la ultima vez!
+
+Con el último golpe de Nuestro/a protagonista, Clima Tempestuoso sale disparada hacia el cielo con ayuda de una de sus propias ráfagas de aire...
+- Personaje: ¡Y con esto te mando hasta el infinito y mas allá! (voz de Buzz Lightyear)
+
+El compañero que sólo le habia dado tiempo a resguardarse, sale de su escondrijo y le dió las gracias a "Nombre del Personaje".
+-Amigo: ¡Muchas gracias! siempre estás ahí para salvarnos.
+-Personaje: Como dice siempre mi tio "Un gran poder conlleva una gran responsabilidad".
+
+
+
+
+
+
+
+
+
+
 */
